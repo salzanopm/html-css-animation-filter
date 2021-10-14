@@ -83,6 +83,7 @@
 .ex-7-img:hover {
     filter: sepia(.7) grayscale(.5);
 }
+
 /* solution 8° */
 .ex-8-img {
     transition: 1s;
@@ -92,6 +93,7 @@
     border-radius: 10px;
 }
 
+/* solution 9° */
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
@@ -109,7 +111,6 @@
     font-size: 60px;
 }
 /* solution 10° */
-
 .ex-10-icon {
     animation: gira-antiorario 1s linear infinite;
 }
@@ -150,5 +151,4 @@
     height: 20px;
 }
 
-/* solution 12° */
 
